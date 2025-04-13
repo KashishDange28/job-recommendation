@@ -2,3 +2,4 @@ streamlit
 fpdf
 google.generativeai
 matplotlib
+speech_recognition
