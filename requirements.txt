@@ -1,5 +1,8 @@
-streamlit
-fpdf
-google.generativeai
-matplotlib
-speech_recognition
+streamlit>=1.32.0
+fpdf2>=2.7.6
+google-generativeai>=0.3.2
+matplotlib>=3.8.0
+SpeechRecognition>=3.10.0
+Pillow>=10.2.0
+pandas>=2.0.0
+pyaudio>=0.2.14

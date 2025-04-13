@@ -5,7 +5,7 @@ import os
 from PIL import Image
 import pandas as pd
 import matplotlib.pyplot as plt
-import speech_recognition as sr
+import SpeechRecognition as sr
 import google.generativeai as genai
 import json
 
